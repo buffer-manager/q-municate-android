@@ -1,3 +1,6 @@
+Trying to integrate quickblox location module
+
+
 # Q-municate 
 Q-municate is a code of a chat application with a wide range of communication features included (such as messaging, file transfer, push notifications, audio/video calls).
 http://q-municate.com/
