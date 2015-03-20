@@ -28,6 +28,8 @@ Q-municate is a fully fledged chat application using the Quickblox API.
 * [Content](http://quickblox.com/modules/content/) 
 * [Custom objects](http://quickblox.com/modules/custom/)
 * [Messages](http://quickblox.com/modules/messages)
+* [location](http://quickblox.com/modules/location)
+
 
 
 Please note, in order to start using Chat 2.0, you should know the [following] (http://quickblox.com/developers/Chat#Pre-Requirements)
@@ -48,6 +50,7 @@ Please note, in order to start using Chat 2.0, you should know the [following] (
 * View list of all active chats with chat history (private chats and group chats)
 * View and edit group chat info (title, logo, add friend or leave a group chat)
 * Allow users to edit their profile (set their own avatar and status (short text message))
+* show all online users on the map
 
 Please note all these features are available in open source code, so you can customize your app depending on your needs.
 
